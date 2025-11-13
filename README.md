@@ -86,3 +86,10 @@ pnpm new-post
 ```
 Runs a script to generate a new Markdown file with pre-filled metadata
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE).  
+You are free to use, modify, and distribute this project with proper attribution.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
