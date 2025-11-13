@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
+
 # Psyc101 – Personal Psychology Blog
 
 **Psyc101** is a personal blog built with the [Astro](https://astro.build/) framework, designed to deliver high performance, clean typography, and seamless user experience.  
@@ -91,5 +94,4 @@ Runs a script to generate a new Markdown file with pre-filled metadata
 This project is licensed under the [MIT License](./LICENSE).  
 You are free to use, modify, and distribute this project with proper attribution.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
