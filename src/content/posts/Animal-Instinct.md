@@ -2,7 +2,7 @@
 title: Why Humans Are Still Animals Just With WiFi
 published: 2025-11-02
 description: 'You wake up, scroll for dopamine, chase goals, fear failure. Sounds human? It’s also pure animal :)'
-image: 'https://i.ibb.co/VcMsWph2/image.jpg'
+image: 'https://i.ibb.co/CpT15yTF/blog1.png'
 tags: ['psychology', 'human-nature', 'freud', 'instinct', 'consciousness']
 category: 'Mind & Behavior'
 draft: false
